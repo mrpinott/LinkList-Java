@@ -48,7 +48,6 @@ public class LinkedListDriver {
                             list.print();
                         }
                     default:
-                        list.print();
                         break;
 
                 }
